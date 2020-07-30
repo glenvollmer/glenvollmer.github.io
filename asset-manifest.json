@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glenvollmer.github.io/static/css/main.1ed9b858.chunk.css",
+    "main.js": "/glenvollmer.github.io/static/js/main.b3262db5.chunk.js",
+    "main.js.map": "/glenvollmer.github.io/static/js/main.b3262db5.chunk.js.map",
+    "runtime-main.js": "/glenvollmer.github.io/static/js/runtime-main.2a72b1d4.js",
+    "runtime-main.js.map": "/glenvollmer.github.io/static/js/runtime-main.2a72b1d4.js.map",
+    "static/js/2.8bfb6fa6.chunk.js": "/glenvollmer.github.io/static/js/2.8bfb6fa6.chunk.js",
+    "static/js/2.8bfb6fa6.chunk.js.map": "/glenvollmer.github.io/static/js/2.8bfb6fa6.chunk.js.map",
+    "index.html": "/glenvollmer.github.io/index.html",
+    "precache-manifest.ae8caacfcb2dfc0d5ba86ee8b9b420eb.js": "/glenvollmer.github.io/precache-manifest.ae8caacfcb2dfc0d5ba86ee8b9b420eb.js",
+    "service-worker.js": "/glenvollmer.github.io/service-worker.js",
+    "static/css/main.1ed9b858.chunk.css.map": "/glenvollmer.github.io/static/css/main.1ed9b858.chunk.css.map",
+    "static/js/2.8bfb6fa6.chunk.js.LICENSE.txt": "/glenvollmer.github.io/static/js/2.8bfb6fa6.chunk.js.LICENSE.txt",
+    "static/media/me.png": "/glenvollmer.github.io/static/media/me.7dffe2fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a72b1d4.js",
+    "static/js/2.8bfb6fa6.chunk.js",
+    "static/css/main.1ed9b858.chunk.css",
+    "static/js/main.b3262db5.chunk.js"
+  ]
+}
